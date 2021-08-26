@@ -19,6 +19,8 @@ export default function App() {
                     }>
                 </Image>
 
+                
+
 
                 
             </View>
