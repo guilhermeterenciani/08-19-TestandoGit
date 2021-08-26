@@ -18,6 +18,8 @@ export default function App() {
                     require("./src/assets/share.png")
                     }>
                 </Image>
+
+
                 
             </View>
             <Text>Hello World!</Text>
